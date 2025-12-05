@@ -1,5 +1,5 @@
 # Letra de la Clínica Manson & Chi Dentistry
-Contexto: Usted ha sido asignado para realizar el mantenimiento y actualización del sitio web de la clínica "Manson & Chi Dentistry". Se le entrega un archivo .zip con el sitio. Deberá importarlo a su entorno local (LocalWP) para trabajar. Se recomienda explorar el customizer con tranquilidad antes de comenzar a realizar cualquier cambio.
+Contexto: Usted ha sido asignado para realizar el mantenimiento y actualización del sitio web de la clínica "Manson & Chi Dentistry". Se le entrega un [archivo .zip con el sitio](https://drive.google.com/file/d/1DoN-xyUA79YUf1QFhSpN1OMsA7PPS08E/view?usp=sharing). Deberá importarlo a su entorno local (LocalWP) para trabajar. Se recomienda explorar el customizer con tranquilidad antes de comenzar a realizar cualquier cambio.
 
 ## A. Gestión de Contenidos y Estructura (15 pts)
 1. Ajuste de Menú de Navegación (2 pts):
