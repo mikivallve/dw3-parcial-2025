@@ -21,7 +21,7 @@ Marketing digital ha cerrado la cuenta de Twitter (X). Elimine todo rastro de Tw
 ## B. Nuevo Contenido (10 pts)
 6. Agregar un bloque de Testimonios en la HOME (5 pts):
 Agregue reseñas de clientes en la sección titulada “See what our patients have to say”.
-Utilice contenido real extraído de las reseñas de Google Maps de la clínica. Copie al menos 2 reseñas recientes.
+Utilice contenido real extraído de las [reseñas de Google Maps](https://www.google.com/search?q=mason+and+chi+dentristry&oq=mason+and+chi+dentristry&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEINDk0MmowajGoAgCwAgA&sourceid=chrome&ie=UTF-8#lrd=0x5490126f6d3b43f1:0xeda4dc1f8ea3c343,1,,,,) de la clínica. Copie al menos 2 reseñas recientes.
 7. Nuevo Servicio con IA (5 pts):
 La clínica ofrecerá un servicio de sedación avanzada.
 Instale un plugin que le permita duplicar contenidos.
