@@ -2,7 +2,7 @@
 
 **Contexto:**
 Usted ha sido asignado para realizar el mantenimiento y actualización del sitio web de la clínica "Manson & Chi Dentistry".
-* 📥 **Recurso:** Se le entrega un [archivo .zip con el sitio aquí](https://drive.google.com/file/d/1DoN-xyUA79YUf1QFhSpN1OMsA7PPS08E/view?usp=sharing).
+* 📥 **Recurso:** Se le entrega un [archivo .zip con el sitio aquí](https://github.com/mikivallve/dw3-parcial-2025/releases/download/simulacro-2026/simulacro-2025.zip) (300 MB, actualizado a noviembre 2026).
 * **Instrucción:** Deberá importarlo a su entorno local (LocalWP) para trabajar.
 * **Recomendación:** Explore el *customizer* con tranquilidad antes de comenzar a realizar cualquier cambio.
 
